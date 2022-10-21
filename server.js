@@ -24,6 +24,7 @@ app.post('/create/orderId',(req,res)=>{
         amount: req.body.amount,  // amount in the smallest currency unit
         currency: "INR",
         receipt: "rcpt1"
+        
       };
       instance.orders.create(options, function(err, order) {
         console.log(order);
