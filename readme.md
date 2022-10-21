@@ -24,4 +24,4 @@ key_secret - Available in your server.
 The key_secret that was generated from the Razorpay Dashboard.
 Use the SHA256 algorithm, the razorpay_payment_id and the order_id to construct a HMAC hex digest
 
-When payment is successful, sign verification will be initiated
+When payment is successful, sign verification will be initiated...
