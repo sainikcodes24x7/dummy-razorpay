@@ -27,3 +27,6 @@ Use the SHA256 algorithm, the razorpay_payment_id and the order_id to construct 
 When payment is successful, sign verification will be initiated...
 
 THANKS TO RAZORPAY OFFICIAL DOCS
+
+
+https://www.youtube.com/watch?v=KwjiexQ_MDQ&t=2s
